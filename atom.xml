@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>HoppzBlog</title>
+  <icon>https://www.gravatar.com/avatar/e8a3c75629c0c48903f98170a33b1bda</icon>
+  <subtitle>~</subtitle>
+  <link href="https://hoppz.github.io/atom.xml" rel="self"/>
   
-  <subtitle>The unexamined life is not worth living.——Socrates, in Plato, Dialogues, Apology [Life]</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://hoppz.github.io/"/>
   <updated>2021-08-03T06:08:51.162Z</updated>
-  <id>http://example.com/</id>
+  <id>https://hoppz.github.io/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>Hoppz</name>
+    <email>Hoppz520@163.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/08/03/hello-world/"/>
-    <id>http://example.com/2021/08/03/hello-world/</id>
+    <link href="https://hoppz.github.io/2021/08/03/hello-world/"/>
+    <id>https://hoppz.github.io/2021/08/03/hello-world/</id>
     <published>2021-08-03T06:08:51.162Z</published>
     <updated>2021-08-03T06:08:51.162Z</updated>
     
