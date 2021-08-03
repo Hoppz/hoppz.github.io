@@ -4,7 +4,17 @@
 }
 
 .author-info__name {
-    color: #1E90FF
+    color: #1E90FF;
+}
+
+ #site-title
+ {
+	color: #000000;
+ }
+
+#site-subtitle
+{
+	color: #000000;
 }
 
 /* 评论框  */
@@ -117,25 +127,26 @@ a {
 
 
 
-/* 鼠标图标 */
+/* 鼠标图标 
 
 body {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/Jkll8I.png), auto;
 }
 
-
-/*a标签*/
+*/
+/*a标签
 
 a:hover {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
+*/
 
-
-/*按钮*/
+/*按钮
 
 button:hover {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
+
 
 #rightside>div>button,
 #rightside>div>a {
@@ -148,7 +159,7 @@ button:hover {
     font-size: 16px;
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
-
+*/
 
 /* 打赏 
 
