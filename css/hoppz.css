@@ -4,7 +4,7 @@
 }
 
 .author-info__name {
-    color: 	#1E90FF
+    color: #1E90FF
 }
 
 /* 评论框  */
@@ -86,11 +86,11 @@ a {
 
 /* 首页中间打字效果上方 */
 #page-header #site_title {
-    color: #C0C0C0;
+    color: #c0c0c0;
 }
 /* 顶部导航栏 */
 #nav a {
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 /*页脚a标签字体颜色
